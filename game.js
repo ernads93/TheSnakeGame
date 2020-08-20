@@ -28,7 +28,7 @@ window.requestAnimationFrame(main);
 
 function update() {
   updateSnake();
-  updateFood;
+  updateFood();
 }
 
 function draw() {
